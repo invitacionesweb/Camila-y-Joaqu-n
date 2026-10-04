@@ -705,7 +705,10 @@ footer img {
             width: 50vw;
         }
 
+.timeline  {
+   padding: 60px 0;
 
+}
 .timeline .iconos {
     flex-direction: column;
 
